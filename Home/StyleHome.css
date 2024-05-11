@@ -1,0 +1,63 @@
+a:hover{color: aquamarine;}
+div h3{color: blueviolet; font-size: 20pt;}
+.Lista{color: darkslategrey; font-size: 15pt;}
+.Hobbies{color: blueviolet; font-size: 20pt;}
+div p{font-size: 15pt;}
+div li{font-size: 15pt;}
+#Sites{color: blueviolet; font-size: 20pt;}
+a{color: cornflowerblue; font-size: 15pt;}
+ul{
+
+
+
+
+    display: flex;
+    flex-direction: column;
+    color: darkred;
+    text-decoration: none;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+
+    list-style: none;
+    width: 100%;
+    overflow: hidden;
+    padding: 15px;
+
+    font-size: 25px;
+
+    font-weight: bold;
+}
+body{
+    background: radial-gradient( lightpink 50%, deeppink);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#mapa{
+    /*border-radius: 200px;*/
+    padding: 10px;
+
+}
+#texto_inicial{
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 3px;
+    padding: 10px;
+    background: white;
+}
+h1{
+    border-radius: 300px;
+    border-style: solid;
+    border-width: 5px;
+    padding: 10px;
+    background: linear-gradient(90deg, mediumpurple, deepskyblue, limegreen, #e0c53d,darkorange, red );
+}
+h1:hover{
+    background: linear-gradient(270deg, #4823ea, #9244f6, #fffffc, #4eea9d, lightseagreen);
+}
+#menu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}

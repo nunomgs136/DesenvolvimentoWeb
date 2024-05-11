@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(120deg,red,magenta);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#senha{
+    display: flex;
+    flex-direction: row;
+}
+#login{
+    display: flex;
+    flex-direction: row;
+}
+#nome{
+    display: flex;
+    flex-direction: row;
+}
+a{
+    color: hotpink;
+}

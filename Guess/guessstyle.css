@@ -1,0 +1,40 @@
+#numero{
+
+    display: flex;
+    align-self: center;
+}
+#botao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#instrucoes{
+    display: flex;
+    justify-content: center;
+    margin-right:auto;
+    margin-left:auto;
+    font-family: "Times New Roman";
+    color: yellow;
+    font-size: 40px;
+}
+div{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+body{
+    background-color: pink;
+
+}
+p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-family: "Comic Sans MS";
+    font-size: 25px;
+    margin: 0;
+
+}

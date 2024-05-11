@@ -1,0 +1,6 @@
+body{
+    background: linear-gradient(90deg,lightpink,deeppink);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}

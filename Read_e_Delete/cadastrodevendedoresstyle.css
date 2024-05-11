@@ -1,0 +1,7 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(90deg,mediumpurple,aqua);
+
+}
